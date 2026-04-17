@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi I'm Furkan 👋
 
 Beginner Python developer with a strong interest in Artificial Intelligence and data-driven projects 🤖  
 
